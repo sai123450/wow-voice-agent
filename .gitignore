@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+venv/
+env/
+*.pyc
+.pytest_cache/
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+.gemini/
